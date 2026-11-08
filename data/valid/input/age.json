@@ -1,0 +1,13 @@
+
+{
+    "name": "Alice Marie Johnson",
+    "email": "alice.johnson@email.com",
+    "password": "Password1!",
+    "dob": "11/7/2026",
+    "location": {
+        "city": "Seattle",
+        "state": "WA",
+        "country": "US"
+    }
+}
+

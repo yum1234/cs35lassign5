@@ -1,0 +1,16 @@
+{
+  "format": "sebook.archuml.encrypted",
+  "version": 2,
+  "tutorialId": "monopoly-state-pattern-uml",
+  "createdAt": "2026-11-08T21:38:26.579Z",
+  "crypto": {
+    "algorithm": "AES-GCM",
+    "keyLength": 128,
+    "kdf": "PBKDF2",
+    "hash": "SHA-256",
+    "iterations": 200000,
+    "salt": "Kr5nF/BRKEyqjVTVCPDRaQ==",
+    "iv": "pMVx7OP+dHZcuRcK"
+  },
+  "ciphertext": "daoqyEOCvXJ43AQOYdhJYCpLmovK1CLqcNevRdUGDcbjL15y5u5Cn+qkQSmb036qhc6QYdCB1hVwOVmaGMu+6nmCH9RGPUgXZUiFKcU8CTcg3vJUWvTeF2Y9B1suMSDwuWOG0IgDOnzyWATijRTLUE7wc4Psr6UHEK8wLm/n1v/b44iyu1Hhcs5JWrwFCuesFtK6gc85Kw+gRzvxFRsKT+z8W2/0AhAAM6bMImWcydv+dsOua6LGC0jLJwtPrXoB9qbeiQ2c9CC4PaZF13H559glbl3zbeKwpy1V015+yN/4L9v++EZZsqZyvz+P+VTxfCd4o8LVEDaxLvOKmbp7gTzty4rihWYNG2CvB23kPLgDqJSkHhMO65V/2AtHs0SQd8cgzp9Sz/lwcIsVLQ69fZiRLFWUclNKu7ER+iNPk+XzXegSN+w1QW0rQPKUSKainpZbn0qIEYFzKGo6qNa3BJjmGPsxvazd2JGRmPd19/vTCbtG1X3WEHCKk+WCEHl22O4JOrHfw42R01i/QM/OLAyo7QMGUeDgIEO9gtgGLgWPRC1kwZs+1PZjtRcxDLZDm2Rar64E78QgKFlRk7epQEehzidOySHaLoFIG8aQnMl5EQlni2LdRFud6RbW9hZMtEoOX4YSvz/pfgxoMRtWZ/MfSFvdx/zXzm6EqnQKTC0fEv4rXUNhWpCAiJmFqL+3Swpsqvpe34+rU66XP+aaRimhoMEr8E8UzZGAnYoopcqDtse+fXsh+vtKT2hdEJlhsXLjkdbvIOInrPAM2yWdrEpLoclYDFWEKDlz0UBgDFMoUwDn/omjKdqbrF2fMwcZX6zKEURNyHw1ZKnQG5ei2rd8l5eZSazxgNkkqJ4EQy3OB7yx0QB+kamUEuCr8oXfdI0x6MSKwOpzoKIA8kM5Rpvhipz4kkFX22DY1WikZF8EfhUzD8p6qRSozX+TTcWJep1V2ThjWjTHmPRTHYser2AccOt26AfSEihenN6unLgusRgM2H74z7nqMWcad+56ZrPT02fsqcmGDKcTiU4NcsUIOZlAp4gjQ88QRffA9iBNGxqWTvnvQfxnBTm5xfu+zqIiWfsTi+gghSg9URyOobM5VEyqL3l12bvyJskCidDYAx70/LUpg+J2pL7Txfei2QbQa1IagkV6rsbatVLANgiBcd+iXLPKlvSlp/5UAZ3i/O/PCHFuw3MqixHNfZ/ssgkpBgQJ5tdHII8qmpPde1PonRrW5nYciEZOx2juXB42/sJGyvYhSbqp2fClByLlvI0T/l4okFGYdyQGNOHmKyrv3SRMlP34ESl975zQOG4Dvys8LI9ybpTP7yMGK0nM0h/TTZmmqVzpjqdk9HvETaAlg8WTYHEaUchcFfUtnNuOeHzqjLB867gIG/PJ6ikoi/yLq4ayl+vKL0Hrn+TM7xxcSzK5n46X0Q092KHcfnduOLzGpBBtUBHIcHY49QUtxllACm3E5PkZ8j7JxnFpf6Z3mgDjfq8WvpY0iYd7snieN4UIYALNZY1GxMIk9p7eLhs4SAcwgYAODj9E00hnF3d0CxSRX6wZ69u2ERBKTvRP7T361mjjnyrctjFYfKEWV37NoK7uSDDpdnpVj4yeAcO2kq95Fl4pR0cP3PNJ09oC2fNFHDWTR006tBayIhV1+MqBVmioslcaLyCfyrCPIUVpTVv2EYln//XBX752/e8Tm5FflrzcCP1A1fOt14323BQ/OsdtWDnL/jCvJe4vTl6ghykwwu53s4MPe/dDgbKDbaa5170p0faZaoTgq1vB8fgGHiBsXyTiduDPyOTBbJPUXzNv42tTxzqzJNgsxZyE9W2GI/iBtJjrHQB6XTtV9tZxUf2uKYPVzv2sjWdWMT0qDZKApmJVIg=="
+}
